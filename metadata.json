@@ -1,0 +1,6 @@
+{
+  "name": "ProsperTrack - Daily Finance & Budget Architect",
+  "description": "Comprehensive daily personal finance tracker featuring customizable monthly budgets, automated expense categorization, visual spending habit charts, and actionable tips for long-term financial success.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
